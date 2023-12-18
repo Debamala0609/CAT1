@@ -1,0 +1,142 @@
+.container-fluid{
+   background-color: darksalmon;
+   text-decoration: rgb(0, 0, 0); 
+   font-size: larger;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-variant:small-caps;
+   color: rgb(225, 26, 119);
+
+}
+.carousel-item{
+    height: 500px;
+    width: 1450px;
+}
+.carousel-caption{
+    width:80%;
+    color: rgb(209, 237, 84);
+    font-size: larger;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-variant:small-caps;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(25, 24, 24, 0.8);
+}
+.container2{
+ display:flex;
+ text-transform: uppercase;
+ justify-content: center;
+ align-items: center;
+}
+.contact-section {
+    padding: 20px;}
+  
+  input[type="text"], input[type="email"]
+   {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+.contact-form-box {
+    border: 1px solid #ddd;
+    background-color: #f6f4d2;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 0 auto;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+}
+.contactme {
+    max-width: 800px;
+    margin: 20px auto;
+}
+.con{
+    font-size: larger;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: double;
+    color: brown;
+    text-transform:uppercase;
+}
+.form-signin{
+    background-color: rgb(201, 144, 103);
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto;
+    width: 900px;
+    font-family: ;
+}
+.signcontainer{
+ background-image: url(i2.avif);
+}
+.menu-category {
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.menu-category h2 {
+    color: #FF4500; /* KFC Red-Orange */
+    border-bottom: 2px solid #FF4500;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.menu-category ul {
+    list-style: none;
+}
+
+.menu-category li {
+    margin-bottom: 20px;
+}
+
+.menu-category h3 {
+    color: #000; /* Black */
+}
+
+.menu-category p {
+    color: #555; /* Dark Gray */
+}
+
+footer {
+    background-color: #333; /* Dark Gray */
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.conBlog {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.display-4 {
+    color: #FF4500;
+}
+
+.lead {
+    color: #555;
+}
+
+.fst-italic {
+    font-style: italic;
+}
+
+.text-body-emphasis {
+    color: #0069d9;
+
+
